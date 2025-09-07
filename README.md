@@ -19,9 +19,9 @@ Our exploratory data analysis revealed several key insights into the app ecosyst
 ## 📊 Interactive Dashboard
 A live, interactive dashboard was created to visualize these findings. You can explore the data and filter by category to uncover more insights.
 
-**[➡️ View the Interactive Dashboard Here]**(Your-Dashboard-Link-Will-Go-Here)
+**➡️ View the Interactive Dashboard Here:- https://lookerstudio.google.com/reporting/d026242c-b96d-43c9-8164-7e9b9fa2f76a
 
-*(A screenshot of your dashboard will go here later)*
+*[Dashboard Preview](dashboard.png))*
 
 ## 📂 Repository Structure
 * **/data:** Contains the raw CSV file (`googleplaystore.csv`).
